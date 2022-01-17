@@ -1,0 +1,33 @@
+.CreateTodoButton {
+    position: relative;
+    left: 26%;
+    bottom: 15px;
+    width:30px;
+    height:30px;
+    color: white;
+    background-color:#29093b;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 20px;
+    z-index: 1;
+}
+
+.CreateTodoButton:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.CreateTodoButton--FormActive {
+    position: relative;
+    left: 26%;
+    bottom: 15px;
+    width:30px;
+    height:30px;
+    color: white;
+    background-color:#db0808;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 20px;
+    z-index: 1;
+    transform: rotate(45deg);
+}

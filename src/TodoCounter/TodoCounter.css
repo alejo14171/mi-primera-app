@@ -1,0 +1,8 @@
+.TodoCounter {
+    margin: 20px;
+    text-align: center;
+    position: relative;
+    left: 20px;
+    font-size: 35px;
+    font-weight: bolder;
+}

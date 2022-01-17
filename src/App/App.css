@@ -1,0 +1,23 @@
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+#bodyIndex {
+  display: flex;
+  background-image: radial-gradient(circle at 60.64% 110.34%, #ffadff 0, #ffa1ff 16.67%, #f592ff 33.33%, #c580f3 50%, #986ed4 66.67%, #715eb8 83.33%, #4f4f9e 100%);
+  justify-content: center;
+}
+
+#root {
+  display: flex;
+  width: 50%;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+}
+
+#modal {
+  width: 50%;
+}
