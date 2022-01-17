@@ -24,7 +24,7 @@ function TodoForm() {
 
   return (
     <form onSubmit={onAdd} className="form">
-      <h1 className="form__title">Create a new Todo!</h1>
+      <h1 className="form__title">Create a new Todo...</h1>
       <textarea 
         className="form__TextArea"
         placeholder="Write your new Todo"
