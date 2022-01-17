@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mi-primera-app/static/css/main.aaa17330.css",
+    "main.js": "/mi-primera-app/static/js/main.84e31e4c.js",
+    "index.html": "/mi-primera-app/index.html",
+    "main.aaa17330.css.map": "/mi-primera-app/static/css/main.aaa17330.css.map",
+    "main.84e31e4c.js.map": "/mi-primera-app/static/js/main.84e31e4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa17330.css",
+    "static/js/main.84e31e4c.js"
+  ]
+}
